@@ -7,5 +7,7 @@ Key highlights:
 - Modularized code, facilitating maintenance or the development of new features
 - High portability
 
+<img src="https://github.com/BitWhisperer2001/Event-Driven-Platform/tree/main/images/event-driven-service.png" width="48" alt="Small logo">
+
 > [!WARNING]
 > This framework is not endorsed or guaranteed for reliability by any reputable organization; please monitor your system if you choose to use it. If you encounter any errors, please report them to us.
